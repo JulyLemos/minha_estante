@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133530157575",
+    "project_id": "minha-estante-4697e",
+    "storage_bucket": "minha-estante-4697e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133530157575:android:ace9d9a488d396ad73a0a2",
+        "android_client_info": {
+          "package_name": "br.edu.ifsp.minha_estante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATx2QLDzkg8YJX6up662bkTlVGujvckBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
